@@ -33,11 +33,12 @@ pytest tests/
 ```
 ## Структура проекта
 ```
-├── tests/               # Папка с тестами
-├── pages/               # Папка с Page Object Model (POM)
-├── conftest.py          # Фикстуры для pytest
+├── TASKS                # Папка с задачами по модулям
+├── pages/               # Папка с Page Object Model (POM)(планируется)
+├── conftest.py          # Фикстуры для pytest(планируется)
 ├── requirements.txt     # Зависимости проекта
 └── README.md            # Описание проекта
 ```
 
 Если у тебя есть вопросы или предложения, не стесняйся связаться со мной!
+Ссылка на ТГ - https://t.me/Makhno182
